@@ -1,0 +1,14 @@
+{
+  "name": "geojson-report",
+  "version": "0.0.0",
+  "description": "Reports on the properties of a geojson featureCollection",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idris http://www.idris-maps.com",
+  "license": "GPL",
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
