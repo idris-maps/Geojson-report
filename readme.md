@@ -9,7 +9,7 @@ For quick analysis of geojson files.
 ####Download this repository
 
 ```
-	
+	git clone https://github.com/idris-maps/Geojson-report.git
 ```
 
 
@@ -19,6 +19,7 @@ For quick analysis of geojson files.
 There is only one: [underscore](http://underscorejs.org/).
 
 ```
+	cd Geojson-report
 	npm install	
 ```
 
